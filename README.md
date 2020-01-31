@@ -1,1 +1,3 @@
-# stm32l432kc
+# STM32L432KC
+
+Various piece and pieces of code trying to figure out the STM micro.
